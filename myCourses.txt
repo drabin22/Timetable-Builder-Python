@@ -1,0 +1,186 @@
+&4
+#Biological Concepts of Health - BIOL*1080
+~Section 0101
+!LEC,8,30,am,9,20,am,M,ROZH 104
+!LEC,8,30,am,9,20,am,W,ROZH 104
+!SEM,10,30,am,11,20,am,M,SSC 3307
+
+~Section 102
+!LEC,8,30,am,9,20,am,M,ROZH 104
+!LEC,8,30,am,9,20,am,W,ROZH 104
+!SEM,11,30,am,12,20,am,M,SSC 3307
+
+~Section 103
+!LEC,8,30,am,9,20,am,M,ROZH 104
+!LEC,8,30,am,9,20,am,W,ROZH 104
+!SEM,1,30,am,2,20,am,M,SSC 3307
+
+~Section 104
+!LEC,8,30,am,9,20,am,M,ROZH 104
+!LEC,8,30,am,9,20,am,W,ROZH 104
+!SEM,2,30,pm,3,20,pm,M,SSC 3307
+
+~Section 105
+!LEC,8,30,am,9,20,am,M,ROZH 104
+!LEC,8,30,am,9,20,am,W,ROZH 104
+!SEM,9,30,am,10,20,am,T,SSC 3307
+
+~Section 106
+!LEC,8,30,am,9,20,am,M,ROZH 104
+!LEC,8,30,am,9,20,am,W,ROZH 104
+!SEM,10,30,am,11,20,am,T,SSC 3307
+
+#Engineering and Design II - ENGG*2100
+~Section 01011 or 01012
+!LEC,2,30,pm,3,20,pm,M,MACN 105
+!LEC,2,30,pm,3,20,pm,W,MACN 105
+!LAB,11,30,am,1,20,pm,T,THRN 1006 or THRN 1025
+!SEM,8,30,am,10,20,am,TH,MCLN 101 or THRN 2313
+
+~Section 01013 or 01014
+!LEC,2,30,pm,3,20,pm,M,MACN 105
+!LEC,2,30,pm,3,20,pm,W,MACN 105
+!LAB,11,30,am,1,20,pm,T,THRN 1006 or THRN 1025
+!SEM,8,30,am,10,20,am,M,MCLN 101 or THRN 2313
+
+~Section 01015 or 01016
+!LEC,2,30,pm,3,20,pm,M,MACN 105
+!LEC,2,30,pm,3,20,pm,W,MACN 105
+!LAB,11,30,am,1,20,pm,T,THRN 1006 or THRN 1025
+!SEM,8,30,am,10,20,am,F,MCLN 101 or THRN 2313
+
+#Material Science - ENGG*2120
+~Section 0101
+!LEC,2,30,pm,3,50,pm,T,MACN 105
+!LEC,2,30,pm,3,50,pm,TH,MACN 105
+!SEM,10,30,am,12,20,pm,F,THRN 1008
+
+~Section 0102
+!LEC,2,30,pm,3,50,pm,T,MACN 105
+!LEC,2,30,pm,3,50,pm,TH,MACN 105
+!SEM,8,30,am,10,20,am,W,THRN 1008
+
+~Section 0103
+!LEC,2,30,pm,3,50,pm,T,MACN 105
+!LEC,2,30,pm,3,50,pm,TH,MACN 105
+!SEM,8,30,am,10,20,am,F,THRN 1008
+
+~Section 0104
+!LEC,2,30,pm,3,50,pm,T,MACN 105
+!LEC,2,30,pm,3,50,pm,TH,MACN 105
+!SEM,2,30,pm,4,20,pm,F,THRN 1008
+
+~Section 0105
+!LEC,2,30,pm,3,50,pm,T,MACN 105
+!LEC,2,30,pm,3,50,pm,TH,MACN 105
+!SEM,8,30,am,10,20,am,T,THRN 1008
+
+~Section 0106
+!LEC,2,30,pm,3,50,pm,T,MACN 105
+!LEC,2,30,pm,3,50,pm,TH,MACN 105
+!SEM,8,30,am,10,20,am,TH,THRN 1008
+
+#Engineering Mechanics II - ENGG*2160
+~Section 0101
+!LEC,11,30,am,12,50,pm,T,MCKN 117
+!LEC,11,30,am,12,50,pm,TH,MCKN 117
+!LAB,9,30,am,10,20,am,M,MCKN 236
+
+~Section 0102
+!LEC,11,30,am,12,50,pm,T,MCKN 117
+!LEC,11,30,am,12,50,pm,TH,MCKN 117
+!LAB,5,30,pm,6,20,pm,M,ROZH 105
+
+~Section 0103
+!LEC,11,30,am,12,50,pm,T,MCKN 117
+!LEC,11,30,am,12,50,pm,TH,MCKN 117
+!LAB,10,30,am,11,20,am,TH,MCKN 237
+
+~Section 0104
+!LEC,11,30,am,12,50,pm,T,MCKN 117
+!LEC,11,30,am,12,50,pm,TH,MCKN 117
+!LAB,10,30,am,11,20,am,T,MCKN 223
+
+~Section 0105
+!LEC,11,30,am,12,50,pm,T,MCKN 117
+!LEC,11,30,am,12,50,pm,TH,MCKN 117
+!LAB,1,30,pm,2,20,pm,T,MCKN 235
+
+~Section 0201
+!LEC,4,00,pm,5,20,pm,T,MCLN 102
+!LEC,4,00,pm,5,20,pm,TH,MCLN 102
+!LAB,9,30,am,10,20,am,M,MCKN 236
+
+#Engineering Systems Analysis - ENGG*2400
+~Section 0101
+!LEC,3,30,pm,4,20,pm,M,MCLN 102
+!LEC,3,30,pm,4,20,pm,W,MCLN 102
+!LEC,3,30,pm,4,20,pm,F,MCLN 102
+!LAB,10,30,am,11,20,am,M,ALEX 218
+
+~Section 0102
+!LEC,3,30,pm,4,20,pm,M,MCLN 102
+!LEC,3,30,pm,4,20,pm,W,MCLN 102
+!LEC,3,30,pm,4,20,pm,F,MCLN 102
+!LAB,5,30,pm,6,20,pm,W,MCKN 223
+
+~Section 0103
+!LEC,3,30,pm,4,20,pm,M,MCLN 102
+!LEC,3,30,pm,4,20,pm,W,MCLN 102
+!LEC,3,30,pm,4,20,pm,F,MCLN 102
+!LAB,4,30,pm,5,20,pm,M,ALEX 218
+
+~Section 0104
+!LEC,3,30,pm,4,20,pm,M,MCLN 102
+!LEC,3,30,pm,4,20,pm,W,MCLN 102
+!LEC,3,30,pm,4,20,pm,F,MCLN 102
+!LAB,8,30,am,9,20,am,F,ALEX 218
+
+~Section 0105
+!LEC,3,30,pm,4,20,pm,M,MCLN 102
+!LEC,3,30,pm,4,20,pm,W,MCLN 102
+!LEC,3,30,pm,4,20,pm,F,MCLN 102
+!LAB,12,30,pm,1,20,pm,M,ALEX 218
+
+~Section 0106
+!LEC,3,30,pm,4,20,pm,M,MCLN 102
+!LEC,3,30,pm,4,20,pm,W,MCLN 102
+!LEC,3,30,pm,4,20,pm,F,MCLN 102
+!LAB,10,30,am,11,20,am,F,ALEX 218
+
+#Applied Differential Equations - MATH*2270
+~Section 0101
+!LEC,1,30,pm,2,20,pm,M,THRN 1200
+!LEC,1,30,pm,2,20,pm,W,THRN 1200
+!LEC,1,30,pm,2,20,pm,F,THRN 1200
+!LAB,8,30,am,9,20,am,T,MCKN 225
+
+~Section 0102
+!LEC,1,30,pm,2,20,pm,M,THRN 1200
+!LEC,1,30,pm,2,20,pm,W,THRN 1200
+!LEC,1,30,pm,2,20,pm,F,THRN 1200
+!LAB,11,30,am,12,20,pm,M,CRSC 117
+
+~Section 0103
+!LEC,1,30,pm,2,20,pm,M,THRN 1200
+!LEC,1,30,pm,2,20,pm,W,THRN 1200
+!LEC,1,30,pm,2,20,pm,F,THRN 1200
+!LAB,2,30,pm,3,20,pm,M,MCLN 107
+
+~Section 0104
+!LEC,1,30,pm,2,20,pm,M,THRN 1200
+!LEC,1,30,pm,2,20,pm,W,THRN 1200
+!LEC,1,30,pm,2,20,pm,F,THRN 1200
+!LAB,9,30,am,10,20,am,M,MCKN 224
+
+~Section 0105
+!LEC,1,30,pm,2,20,pm,M,THRN 1200
+!LEC,1,30,pm,2,20,pm,W,THRN 1200
+!LEC,1,30,pm,2,20,pm,F,THRN 1200
+!LAB,10,30,am,11,20,am,T,CRSC 116
+
+~Section 0106
+!LEC,1,30,pm,2,20,pm,M,THRN 1200
+!LEC,1,30,pm,2,20,pm,W,THRN 1200
+!LEC,1,30,pm,2,20,pm,F,THRN 1200
+!LAB,10,30,am,11,20,am,F,CRSC 116
